@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
+scikit-learn-extra
+scipy
+hdbscan
+pyarrow
+gdown
